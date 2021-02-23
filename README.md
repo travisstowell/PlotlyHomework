@@ -1,1 +1,1 @@
-You can view the dashboards at:  https://travisstowell.github.io/PlotlyHomework/
+You can view the dashboards at:  https://travisstowell.github.io/PlotlyHomework/statics/index.html
